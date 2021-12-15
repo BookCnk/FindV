@@ -1,0 +1,11 @@
+*{
+    font-family: 'Mitr', sans-serif;
+}
+
+body{
+    background-image: url('Velocity.jpg');
+    background-repeat: no-repeat; 
+    background-size: cover;;
+    background-position: center;
+    font-family: 'Mitr', sans-serif;
+}
